@@ -28,7 +28,7 @@
     "immer": "3.2.0",
     "keycloak-js": "10.0.2",
     "material-table": "1.62.0",
-    "polished": "3.4.1",
+    "polished": "3.7.2",
     "prop-types": "15.7.2",
     "react": "16.9.0",
     "react-datepicker": "2.14.1",
